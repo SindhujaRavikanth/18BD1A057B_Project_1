@@ -1,0 +1,126 @@
+{
+        "_id" : ObjectId("5f75fb320f76b40b1f4d9b99"),
+        "HId" : "H1",
+        "VentilatorId" : "H1V1",
+        "Status" : "Available",
+        "Name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f75fb480f76b40b1f4d9b9a"),
+        "HId" : "H1",
+        "VentilatorId" : "H1V2",
+        "Status" : "In-Maintainence",
+        "Name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f75fb590f76b40b1f4d9b9b"),
+        "HId" : "H1",
+        "VentilatorId" : "H1V3",
+        "Status" : "Occupied",
+        "Name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f75fb7c0f76b40b1f4d9b9c"),
+        "HId" : "H2",
+        "VentilatorId" : "H2V1",
+        "Status" : "Occupied",
+        "Name" : "Omni hospital"
+}
+{
+        "_id" : ObjectId("5f75fb8a0f76b40b1f4d9b9d"),
+        "HId" : "H2",
+        "VentilatorId" : "H2V2",
+        "Status" : "Available",
+        "Name" : "Omni hospital"
+}
+{
+        "_id" : ObjectId("5f75fba00f76b40b1f4d9b9e"),
+        "HId" : "H2",
+        "VentilatorId" : "H2V3",
+        "Status" : "In-Maintainence",
+        "Name" : "Omni hospital"
+}
+{
+        "_id" : ObjectId("5f75fbba0f76b40b1f4d9b9f"),
+        "HId" : "H3",
+        "VentilatorId" : "H3V1",
+        "Status" : "In-Maintainence",
+        "Name" : "Ozone hospital"
+}
+{
+        "_id" : ObjectId("5f75fbcc0f76b40b1f4d9ba0"),
+        "HId" : "H3",
+        "VentilatorId" : "H3V2",
+        "Status" : "Available",
+        "Name" : "Ozone hospital"
+}
+{
+        "_id" : ObjectId("5f75fbdc0f76b40b1f4d9ba1"),
+        "HId" : "H3",
+        "VentilatorId" : "H3V3",
+        "Status" : "Occupied",
+        "Name" : "Ozone hospital"
+}
+{
+        "_id" : ObjectId("5f75fc050f76b40b1f4d9ba2"),
+        "HId" : "H4",
+        "VentilatorId" : "H4V1",
+        "Status" : "Occupied",
+        "Name" : "Hegde hospital"
+}
+{
+        "_id" : ObjectId("5f75fc170f76b40b1f4d9ba3"),
+        "HId" : "H4",
+        "VentilatorId" : "H4V2",
+        "Status" : "In-Maintainence",
+        "Name" : "Hegde hospital"
+}
+{
+        "_id" : ObjectId("5f75fc270f76b40b1f4d9ba4"),
+        "HId" : "H4",
+        "VentilatorId" : "H4V3",
+        "Status" : "Available",
+        "Name" : "Hegde hospital"
+}
+{
+        "_id" : ObjectId("5f75fc470f76b40b1f4d9ba5"),
+        "HId" : "H5",
+        "VentilatorId" : "H5V1",
+        "Status" : "Available",
+        "Name" : "Yashoda hospital"
+}
+{
+        "_id" : ObjectId("5f75fc5d0f76b40b1f4d9ba6"),
+        "HId" : "H5",
+        "VentilatorId" : "H5V2",
+        "Status" : "In-Maintainence",
+        "Name" : "Yashoda hospital"
+}
+{
+        "_id" : ObjectId("5f75fc6d0f76b40b1f4d9ba7"),
+        "HId" : "H5",
+        "VentilatorId" : "H5V3",
+        "Status" : "Occupied",
+        "Name" : "Yashoda hospital"
+}
+{
+        "_id" : ObjectId("5f75fc840f76b40b1f4d9ba8"),
+        "HId" : "H6",
+        "VentilatorId" : "H6V1",
+        "Status" : "Occupied",
+        "Name" : "Global hospital"
+}
+{
+        "_id" : ObjectId("5f75fc910f76b40b1f4d9ba9"),
+        "HId" : "H6",
+        "VentilatorId" : "H6V2",
+        "Status" : "Available",
+        "Name" : "Global hospital"
+}
+{
+        "_id" : ObjectId("5f75fca90f76b40b1f4d9baa"),
+        "HId" : "H6",
+        "VentilatorId" : "H6V3",
+        "Status" : "In-Maintainence",
+        "Name" : "Global hospital"
+}

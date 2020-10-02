@@ -1,0 +1,48 @@
+{
+        "_id" : ObjectId("5f75f75e0f76b40b1f4d9b93"),
+        "HId" : "H1",
+        "Name" : "Apollo hospital",
+        "Location" : "Telangana",
+        "Address" : "Near Old MLA Quarters Road,Hyderguda,Hyderabad",
+        "Contact" : "4023231380"
+}
+{
+        "_id" : ObjectId("5f75f7c90f76b40b1f4d9b94"),
+        "HId" : "H2",
+        "Name" : "Omni hospital",
+        "Location" : "Telangana",
+        "Address" : "PVT Market Building,Dilsukhnagar,Hyderabad",
+        "Contact" : "8096369999"
+}
+{
+        "_id" : ObjectId("5f75f8280f76b40b1f4d9b95"),
+        "HId" : "H3",
+        "Name" : "Ozone hospital",
+        "Location" : "Telangana",
+        "Address" : "GreenHills Colony,Kothapet,Hyderabad",
+        "Contact" : "9533388108"
+}
+{
+        "_id" : ObjectId("5f75f8a90f76b40b1f4d9b96"),
+        "HId" : "H4",
+        "Name" : "Hegde hospital",
+        "Location" : "Telangana",
+        "Address" : "Vittal Rao Nagar,Madhapur,Hyderabad",
+        "Contact" : "8880747474"
+}
+{
+        "_id" : ObjectId("5f75f9010f76b40b1f4d9b97"),
+        "HId" : "H5",
+        "Name" : "Yashoda hospital",
+        "Location" : "Telangana",
+        "Address" : "Near New Market Metro,Malakpet,Hyderabad",
+        "Contact" : "04045674567"
+}
+{
+        "_id" : ObjectId("5f75f9d30f76b40b1f4d9b98"),
+        "HId" : "H6",
+        "Name" : "Global hospital",
+        "Location" : "Telangana",
+        "Address" : "Nagarjuna Sagar Road,Bairamulguda,LB Nagar,Hyderabad",
+        "Contact" : "04024111111"
+}
